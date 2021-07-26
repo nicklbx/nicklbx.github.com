@@ -6,7 +6,25 @@
     <description>Recent content in Tags on 笨象先飞的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Aug 2019 01:37:56 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jul 2021 15:54:31 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>flask</title>
+      <link>http://localhost:1313/tags/flask/</link>
+      <pubDate>Sat, 24 Jul 2021 15:54:31 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Sat, 24 Jul 2021 15:54:31 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>中文</title>
       <link>http://localhost:1313/tags/%E4%B8%AD%E6%96%87/</link>
